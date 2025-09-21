@@ -1,0 +1,54 @@
+#title, #formtitle {
+  text-align: center;
+  color: black;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th {
+  background-color: yellow;
+  border: 1px solid black;
+  padding: 8px;
+}
+
+td {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+.row {
+  background-color: yellow;
+}
+
+#feedback-form {
+  width: 300px;
+  margin: 20px auto;
+  background-color: pink;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input, select, textarea {
+  width: 95%;
+  margin-bottom: 10px;
+}
+
+.btn {
+  background-color:yellow;
+  color: white;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: black;
+}

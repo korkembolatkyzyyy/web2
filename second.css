@@ -1,0 +1,48 @@
+
+#header {
+    background: pink;
+    padding: 20px;
+    text-align: center;
+}
+
+#navigationbar {
+    background: gray;
+    padding: 10px;
+    text-align: center;
+}
+
+#navigationbar a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+#navigationbar a:hover {
+    background: pink;
+    padding: 5px;
+}
+
+#sidebar {
+    float: left;
+    width: 25%;
+    background: lightgray;
+    padding: 15px;
+}
+
+#main {
+    float: right;
+    width: 70%;
+    background: white;
+    padding: 15px;
+}
+
+#footer {
+    clear: both;
+    background: pink;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    position: fixed;   
+    bottom: 0;         
+    width: 100%;
+}
