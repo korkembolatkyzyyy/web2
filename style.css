@@ -1,0 +1,72 @@
+body{
+    background-color: bisque;
+}
+h2{
+    font-family: "Sofia", sans-serif;
+    font-size: medium;
+}
+p{
+    font-family: "Inter Tight", sans-serif;
+    font-size: small;
+}
+li{
+    font-family: "Inter Tight", sans-serif;
+}
+h1 {
+  background: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  margin: 0;
+  font-family: "Sofia", sans-serif;
+}
+.content {
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 15px;
+  background: white;
+}
+
+img {
+  max-width: 250px;         
+  display: block;           
+  margin: 20px auto;        
+  border-radius: 15px;      
+  box-shadow: 0 4px 12px black; 
+}
+
+ol {
+  list-style-type: lower-greek; 
+  margin-left: 30px;
+  margin-bottom: 15px;
+}
+
+ul {
+  list-style-type: square; 
+  margin-left: 30px;
+  margin-bottom: 15px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: bisque;
+  text-decoration: underline;
+  font-family: "Inter Tight", sans-serif;
+}
+
+.button {
+  font-family: "Inter Tight", sans-serif;
+  display: inline-block;
+  background: gray;
+  color: white;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.button:hover {
+  background: black;
+}
+
